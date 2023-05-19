@@ -1,0 +1,4 @@
+Qty Value         Device        Package       Parts Description 
+1   JF15SP1C      JF15SP1C      JF15SP1       S2                
+1   JF15SP1F      JF15SP1F      JF15SP1       S1                
+1   PRO_MICRO_SMD PRO_MICRO_SMD PRO_MICRO_SMD M1                
