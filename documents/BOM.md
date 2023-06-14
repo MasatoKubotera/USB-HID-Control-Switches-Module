@@ -53,6 +53,20 @@
                     <td>Useconn Electronics Ltd.</td>
                     <td>Pin Header Straight 2.54mm Pitch 2A 20mΩ 500V</td>
                 </tr>
+                <tr>
+                    <td>R1,R2</td>
+                    <td>RC0603FR-102KL</td>
+                    <td><a href="https://www.mouser.jp/ProductDetail/603-RC0603FR-102KL/">Mouser / 603-RC0603FR-102KL</a></td>
+                    <td>YAGEO</td>
+                    <td>Thick Film Resistor SMD 2kΩ 1/10W ±1% 0603</td>
+                </tr>
+                <tr>
+                    <td>LED1,LED2</td>
+                    <td>150060VS86000</td>
+                    <td><a href="https://www.mouser.jp/ProductDetail/710-150060VS86000">Mouser / 710-150060VS86000</a></td>
+                    <td><a href="https://www.we-online.com/components/products/datasheet/150060VS86000.pdf">Wurth Elektronik</a></td>
+                    <td>Pin Header Straight 2.54mm Pitch 2A 20mΩ 500V</td>
+                </tr>
             </table>
         </p>
 </body>
